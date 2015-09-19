@@ -1,0 +1,17 @@
+{
+  "name": "legit-readme",
+  "version": "0.0.1",
+  "description": "generates a readme for your react component",
+  "main": "bin/generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "legit-readme": "bin/generate.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23"
+  }
+}
